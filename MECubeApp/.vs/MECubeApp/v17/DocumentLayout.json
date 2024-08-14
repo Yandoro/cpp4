@@ -1,0 +1,436 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MECubeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DCF35-377D-40DC-82E8-C85795BD7283}|..\\MicroEngine\\MicroEngine.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\firstpersoncontrollercomponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DCF35-377D-40DC-82E8-C85795BD7283}|..\\MicroEngine\\MicroEngine.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92030626-643F-4C67-BA3E-DA2AA67736ED}|MECubeApp.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MECubeApp\\src\\cubeapp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92030626-643F-4C67-BA3E-DA2AA67736ED}|MECubeApp.vcxproj|solutionrelative:src\\cubeapp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DCF35-377D-40DC-82E8-C85795BD7283}|..\\MicroEngine\\MicroEngine.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\mesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DCF35-377D-40DC-82E8-C85795BD7283}|..\\MicroEngine\\MicroEngine.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\scenenode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DCF35-377D-40DC-82E8-C85795BD7283}|..\\MicroEngine\\MicroEngine.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\posteffect.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DCF35-377D-40DC-82E8-C85795BD7283}|..\\MicroEngine\\MicroEngine.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\primitivemeshes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92030626-643F-4C67-BA3E-DA2AA67736ED}|MECubeApp.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MECubeApp\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92030626-643F-4C67-BA3E-DA2AA67736ED}|MECubeApp.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DCF35-377D-40DC-82E8-C85795BD7283}|..\\MicroEngine\\MicroEngine.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92030626-643F-4C67-BA3E-DA2AA67736ED}|MECubeApp.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MECubeApp\\src\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92030626-643F-4C67-BA3E-DA2AA67736ED}|MECubeApp.vcxproj|solutionrelative:src\\stdafx.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92030626-643F-4C67-BA3E-DA2AA67736ED}|MECubeApp.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MECubeApp\\src\\cubeapp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92030626-643F-4C67-BA3E-DA2AA67736ED}|MECubeApp.vcxproj|solutionrelative:src\\cubeapp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92030626-643F-4C67-BA3E-DA2AA67736ED}|MECubeApp.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MECubeApp\\src\\apptypes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92030626-643F-4C67-BA3E-DA2AA67736ED}|MECubeApp.vcxproj|solutionrelative:src\\apptypes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DCF35-377D-40DC-82E8-C85795BD7283}|..\\MicroEngine\\MicroEngine.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DCF35-377D-40DC-82E8-C85795BD7283}|..\\MicroEngine\\MicroEngine.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\entity.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DCF35-377D-40DC-82E8-C85795BD7283}|..\\MicroEngine\\MicroEngine.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\d3d11pixelshader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92030626-643F-4C67-BA3E-DA2AA67736ED}|MECubeApp.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MECubeApp\\src\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{92030626-643F-4C67-BA3E-DA2AA67736ED}|MECubeApp.vcxproj|solutionrelative:src\\stdafx.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DCF35-377D-40DC-82E8-C85795BD7283}|..\\MicroEngine\\MicroEngine.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\inc\\MicroEngine\\firstpersoncontrollercomponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DCF35-377D-40DC-82E8-C85795BD7283}|..\\MicroEngine\\MicroEngine.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\inc\\MicroEngine\\renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DCF35-377D-40DC-82E8-C85795BD7283}|..\\MicroEngine\\MicroEngine.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\window.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DCF35-377D-40DC-82E8-C85795BD7283}|..\\MicroEngine\\MicroEngine.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\vertex.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DCF35-377D-40DC-82E8-C85795BD7283}|..\\MicroEngine\\MicroEngine.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\transformcomponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DCF35-377D-40DC-82E8-C85795BD7283}|..\\MicroEngine\\MicroEngine.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\systemmanager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DCF35-377D-40DC-82E8-C85795BD7283}|..\\MicroEngine\\MicroEngine.vcxproj|D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\entitymanager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YanoPC\\Desktop\\Fork\\cpp4\\MicroEngine\\inc\\MicroEngine\\firstpersoncontrollercomponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YanoPC\\Desktop\\Fork\\cpp4\\MicroEngine\\inc\\MicroEngine\\input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\YanoPC\\Desktop\\Fork\\cpp4\\MicroEngine\\inc\\MicroEngine\\entitymanager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\minwinbase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3DCF35-377D-40DC-82E8-C85795BD7283}|..\\MicroEngine\\MicroEngine.vcxproj|D:\\PCBACKUP8.4\\DESKTOP\\FORK\\CPP4\\MICROENGINE\\INC\\MICROENGINE\\INPUT.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "minwinbase.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\minwinbase.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\minwinbase.h",
+              "ViewState": "AQIAAHUBAAAAAAAAAAApwIQBAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-13T12:00:14.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "firstpersoncontrollercomponent.cpp",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\firstpersoncontrollercomponent.cpp",
+              "RelativeDocumentMoniker": "..\\MicroEngine\\src\\firstpersoncontrollercomponent.cpp",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\firstpersoncontrollercomponent.cpp",
+              "RelativeToolTip": "..\\MicroEngine\\src\\firstpersoncontrollercomponent.cpp",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAiwFMAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T20:32:23.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\stdafx.h",
+              "RelativeDocumentMoniker": "..\\MicroEngine\\src\\stdafx.h",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\stdafx.h",
+              "RelativeToolTip": "..\\MicroEngine\\src\\stdafx.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-12T20:32:02.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cubeapp.cpp",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MECubeApp\\src\\cubeapp.cpp",
+              "RelativeDocumentMoniker": "src\\cubeapp.cpp",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MECubeApp\\src\\cubeapp.cpp",
+              "RelativeToolTip": "src\\cubeapp.cpp",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-09T12:01:36.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "renderer.cpp",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\renderer.cpp",
+              "RelativeDocumentMoniker": "..\\MicroEngine\\src\\renderer.cpp",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\renderer.cpp",
+              "RelativeToolTip": "..\\MicroEngine\\src\\renderer.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T20:32:05.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mesh.cpp",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\mesh.cpp",
+              "RelativeDocumentMoniker": "..\\MicroEngine\\src\\mesh.cpp",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\mesh.cpp",
+              "RelativeToolTip": "..\\MicroEngine\\src\\mesh.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T20:32:06.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "scenenode.cpp",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\scenenode.cpp",
+              "RelativeDocumentMoniker": "..\\MicroEngine\\src\\scenenode.cpp",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\scenenode.cpp",
+              "RelativeToolTip": "..\\MicroEngine\\src\\scenenode.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T20:32:01.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "primitivemeshes.cpp",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\primitivemeshes.cpp",
+              "RelativeDocumentMoniker": "..\\MicroEngine\\src\\primitivemeshes.cpp",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\primitivemeshes.cpp",
+              "RelativeToolTip": "..\\MicroEngine\\src\\primitivemeshes.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T20:32:01.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "posteffect.cpp",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\posteffect.cpp",
+              "RelativeDocumentMoniker": "..\\MicroEngine\\src\\posteffect.cpp",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\posteffect.cpp",
+              "RelativeToolTip": "..\\MicroEngine\\src\\posteffect.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T20:32:00.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "input.cpp",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\input.cpp",
+              "RelativeDocumentMoniker": "..\\MicroEngine\\src\\input.cpp",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\input.cpp",
+              "RelativeToolTip": "..\\MicroEngine\\src\\input.cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T20:21:13.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "input.h",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\inc\\MicroEngine\\input.h",
+              "RelativeDocumentMoniker": "..\\MicroEngine\\inc\\MicroEngine\\input.h",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\inc\\MicroEngine\\input.h",
+              "RelativeToolTip": "..\\MicroEngine\\inc\\MicroEngine\\input.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-12T20:21:05.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "cubeapp.h",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MECubeApp\\src\\cubeapp.h",
+              "RelativeDocumentMoniker": "src\\cubeapp.h",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MECubeApp\\src\\cubeapp.h",
+              "RelativeToolTip": "src\\cubeapp.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-12T21:13:33.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "firstpersoncontrollercomponent.h",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\inc\\MicroEngine\\firstpersoncontrollercomponent.h",
+              "RelativeDocumentMoniker": "..\\MicroEngine\\inc\\MicroEngine\\firstpersoncontrollercomponent.h",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\inc\\MicroEngine\\firstpersoncontrollercomponent.h",
+              "RelativeToolTip": "..\\MicroEngine\\inc\\MicroEngine\\firstpersoncontrollercomponent.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-12T20:32:08.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "apptypes.h",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MECubeApp\\src\\apptypes.h",
+              "RelativeDocumentMoniker": "src\\apptypes.h",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MECubeApp\\src\\apptypes.h",
+              "RelativeToolTip": "src\\apptypes.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-12T20:20:59.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "stdafx.h",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MECubeApp\\src\\stdafx.h",
+              "RelativeDocumentMoniker": "src\\stdafx.h",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MECubeApp\\src\\stdafx.h",
+              "RelativeToolTip": "src\\stdafx.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-12T20:20:57.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MECubeApp\\src\\main.cpp",
+              "RelativeDocumentMoniker": "src\\main.cpp",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MECubeApp\\src\\main.cpp",
+              "RelativeToolTip": "src\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T20:20:12.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "d3d11pixelshader.cpp",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\d3d11pixelshader.cpp",
+              "RelativeDocumentMoniker": "..\\MicroEngine\\src\\d3d11pixelshader.cpp",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\d3d11pixelshader.cpp",
+              "RelativeToolTip": "..\\MicroEngine\\src\\d3d11pixelshader.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-13T11:52:18.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "entity.cpp",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\entity.cpp",
+              "RelativeDocumentMoniker": "..\\MicroEngine\\src\\entity.cpp",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\entity.cpp",
+              "RelativeToolTip": "..\\MicroEngine\\src\\entity.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T20:31:53.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "systemmanager.cpp",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\systemmanager.cpp",
+              "RelativeDocumentMoniker": "..\\MicroEngine\\src\\systemmanager.cpp",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\systemmanager.cpp",
+              "RelativeToolTip": "..\\MicroEngine\\src\\systemmanager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T20:32:02.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "renderer.h",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\inc\\MicroEngine\\renderer.h",
+              "RelativeDocumentMoniker": "..\\MicroEngine\\inc\\MicroEngine\\renderer.h",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\inc\\MicroEngine\\renderer.h",
+              "RelativeToolTip": "..\\MicroEngine\\inc\\MicroEngine\\renderer.h",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-12T21:14:25.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "stdafx.cpp",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MECubeApp\\src\\stdafx.cpp",
+              "RelativeDocumentMoniker": "src\\stdafx.cpp",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MECubeApp\\src\\stdafx.cpp",
+              "RelativeToolTip": "src\\stdafx.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T21:10:53.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "transformcomponent.cpp",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\transformcomponent.cpp",
+              "RelativeDocumentMoniker": "..\\MicroEngine\\src\\transformcomponent.cpp",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\transformcomponent.cpp",
+              "RelativeToolTip": "..\\MicroEngine\\src\\transformcomponent.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T20:32:03.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "vertex.cpp",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\vertex.cpp",
+              "RelativeDocumentMoniker": "..\\MicroEngine\\src\\vertex.cpp",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\vertex.cpp",
+              "RelativeToolTip": "..\\MicroEngine\\src\\vertex.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T20:32:03.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "window.cpp",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\window.cpp",
+              "RelativeDocumentMoniker": "..\\MicroEngine\\src\\window.cpp",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\window.cpp",
+              "RelativeToolTip": "..\\MicroEngine\\src\\window.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T20:32:04.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "entitymanager.cpp",
+              "DocumentMoniker": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\entitymanager.cpp",
+              "RelativeDocumentMoniker": "..\\MicroEngine\\src\\entitymanager.cpp",
+              "ToolTip": "D:\\PCBACKUP8.4\\Desktop\\Fork\\cpp4\\MicroEngine\\src\\entitymanager.cpp",
+              "RelativeToolTip": "..\\MicroEngine\\src\\entitymanager.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-12T20:31:53.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "firstpersoncontrollercomponent.h",
+              "DocumentMoniker": "C:\\Users\\YanoPC\\Desktop\\Fork\\cpp4\\MicroEngine\\inc\\MicroEngine\\firstpersoncontrollercomponent.h",
+              "ToolTip": "C:\\Users\\YanoPC\\Desktop\\Fork\\cpp4\\MicroEngine\\inc\\MicroEngine\\firstpersoncontrollercomponent.h",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-09T12:01:27.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "input.h",
+              "DocumentMoniker": "C:\\Users\\YanoPC\\Desktop\\Fork\\cpp4\\MicroEngine\\inc\\MicroEngine\\input.h",
+              "ToolTip": "C:\\Users\\YanoPC\\Desktop\\Fork\\cpp4\\MicroEngine\\inc\\MicroEngine\\input.h",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-09T12:01:11.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "entitymanager.h",
+              "DocumentMoniker": "C:\\Users\\YanoPC\\Desktop\\Fork\\cpp4\\MicroEngine\\inc\\MicroEngine\\entitymanager.h",
+              "ToolTip": "C:\\Users\\YanoPC\\Desktop\\Fork\\cpp4\\MicroEngine\\inc\\MicroEngine\\entitymanager.h",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-09T12:01:01.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

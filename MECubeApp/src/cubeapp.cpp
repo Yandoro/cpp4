@@ -3,11 +3,11 @@
 //-----------------------------------------------------------------------------
 
 #include "stdafx.h"
-
 #include "cubeapp.h"
-
-
-
+#include <windows.h>
+#pragma comment(lib, "Xinput.lib")
+#include <iomanip>
+#include <iostream>
 #include "MicroEngine/d3d11util.h"
 #include "MicroEngine/lightcomponent.h"
 #include "MicroEngine/window.h"
@@ -16,13 +16,14 @@
 #include "MicroEngine/cameracomponent.h"
 #include "MicroEngine/meshrenderercomponent.h"
 #include "MicroEngine/primitivemeshes.h"
-
+#include "inputbuffer.h"
 #include "MicroEngine/mesh.h"
 #include "MicroEngine/input.h"
 #include "MicroEngine/firstpersoncontrollercomponent.h"
 #include "MicroEngine/directorywatcher.h"
 #include "MicroEngine/transformcomponent.h"
 #include "MicroEngine/vertex.h"
+
 
 namespace capp
 {
@@ -90,6 +91,10 @@ namespace capp
 			m_EntityManager.AddComponent<FirstPersonControllerComponent>(m_CameraID);
 			auto cameraComp = m_EntityManager.AddComponent<CameraComponent>(m_CameraID);	
 		}
+
+		
+
+
 
 	    //Camera2 (uncomment for split screen)
 		/*{
@@ -177,42 +182,56 @@ namespace capp
 		if (Input::GetInstance()->IsKeyDown(VK_SUBTRACT))
 			finalPE->SetBrightness(finalPE->GetBrightness() - deltaTime);
 
+
+		XINPUT_STATE state;
+		DWORD dwResult;
+		dwResult = XInputGetState(0, &state);
+		InputManager inputManager;
+		inputManager.configureAction("CubeUp", XINPUT_GAMEPAD_DPAD_UP);
+		inputManager.configureAction("CubeRight", XINPUT_GAMEPAD_DPAD_RIGHT);
+		inputManager.configureAction("CubeDown", XINPUT_GAMEPAD_DPAD_DOWN);
+		inputManager.configureAction("CubeLeft", XINPUT_GAMEPAD_DPAD_LEFT);
+		inputManager.configureAction("CubeAxisZ", XINPUT_GAMEPAD_A);
+		inputManager.configureAction("CubeAxisX", XINPUT_GAMEPAD_X);
+		inputManager.configureAction("CubeAxisY", XINPUT_GAMEPAD_B);
+
+
 		//Control selected entity
         const auto entity = m_EntityManager.GetEntity(m_ControlledEntityID).lock();
 		auto controlledEntity = entity ? entity->GetComponent<TransformComponent>().lock() : std::shared_ptr<TransformComponent>();
 		if (controlledEntity)
 		{
-			if (Input::GetInstance()->IsKeyDown('Z'))
+			if (inputManager.isActionPressed("CubeAxisZ") || Input::GetInstance()->IsKeyDown('Z'))
 			{
 				controlledEntity->RotateLocal(0, 0, 50 * deltaTime);
 			}
 
-			if (Input::GetInstance()->IsKeyDown('X'))
+			if (inputManager.isActionPressed("CubeAxisX") || Input::GetInstance()->IsKeyDown('X'))
 			{
 				controlledEntity->RotateLocal(50 * deltaTime, 0, 0);
 			}
 
-			if (Input::GetInstance()->IsKeyDown('Y'))
+			if (inputManager.isActionPressed("CubeAxisY") || Input::GetInstance()->IsKeyDown('Y'))
 			{
 				controlledEntity->RotateLocal(0, 50 * deltaTime, 0);
 			}
 
-			if (Input::GetInstance()->IsKeyDown(VK_NUMPAD8))
+			if (inputManager.isActionPressed("CubeUp") || Input::GetInstance()->IsKeyDown(VK_NUMPAD8))
 			{
 				controlledEntity->TranslateLocal(0, 0, 10 * deltaTime);
 			}
 
-			if (Input::GetInstance()->IsKeyDown(VK_NUMPAD6))
+			if (inputManager.isActionPressed("CubeRight") || Input::GetInstance()->IsKeyDown(VK_NUMPAD6))
 			{
 				controlledEntity->TranslateLocal(10 * deltaTime, 0, 0);
 			}
 
-			if (Input::GetInstance()->IsKeyDown(VK_NUMPAD2))
+			if (inputManager.isActionPressed("CubeDown") || Input::GetInstance()->IsKeyDown(VK_NUMPAD2))
 			{
 				controlledEntity->TranslateLocal(0, 0, -10 * deltaTime);
 			}
 
-			if (Input::GetInstance()->IsKeyDown(VK_NUMPAD4))
+			if (inputManager.isActionPressed("CubeLeft") || Input::GetInstance()->IsKeyDown(VK_NUMPAD4))
 			{
 				controlledEntity->TranslateLocal(-10 * deltaTime, 0, 0);
 			}
@@ -220,5 +239,7 @@ namespace capp
 
 		//Update all entities
 		m_EntityManager.UpdateEntities(deltaTime);
+
 	}
+
 };

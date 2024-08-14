@@ -8,7 +8,6 @@
 #include "MicroEngine\windowsinc.h"
 #include "MicroEngine\util.h"
 #include "MicroEngine\d3d11device.h"
-// ReSharper disable once CppUnusedIncludeDirective
 #include "MicroEngine\libraries.h"
 
 #pragma comment(lib, "MicroEngine_" CONFIG_NAME ".lib")

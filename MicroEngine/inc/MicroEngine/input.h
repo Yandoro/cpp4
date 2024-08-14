@@ -6,6 +6,8 @@
 
 #include "util.h"
 #include "me_interface.h"
+#include <Xinput.h>
+
 
 namespace me
 {
